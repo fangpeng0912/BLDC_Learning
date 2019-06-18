@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char **argv){
+  printf("BLDC控制系统\n");
+  return EXIT_SUCCESS;
+}
